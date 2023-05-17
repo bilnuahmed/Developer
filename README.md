@@ -1,5 +1,3 @@
 # Developer
 
-(click me!)
-
-(https://bilnuahmed.github.io/Developer/)
+https://bilnuahmed.github.io/Developer/
